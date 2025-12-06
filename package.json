@@ -1,0 +1,11 @@
+{
+  "name": "flow-gen-v15",
+  "version": "1.0.0",
+  "description": "Flow Generator V15 - Ultimate with Reference Image Upload",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node api/index.js"
+  }
+}
